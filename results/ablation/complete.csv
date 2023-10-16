@@ -1,0 +1,2 @@
+"lambda_","categorical_subsets","standardize","nan_threshold_ratio","nan_replacement_type","extrema_clip_percentage","non_informative_threshold","feature_augmentation","poly_max_degree","ihs","sine","sinh","cosine","cosh","exp","abs","seed","test_accuracies"
+1e-07,"[[0], [1], [2, 3]]",True,0.5,"median",1,0.05,True,12,True,True,True,True,True,True,True,270404,"[0.83592, 0.836, 0.838, 0.83588, 0.83796, 0.82956, 0.83096, 0.83384, 0.83288, 0.83476]"
